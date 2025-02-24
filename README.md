@@ -22,15 +22,13 @@ A selection of academic and professional projects:
 - **Enterprise Information Management Database Creation** – Developed a dimensional data warehouse following the Kimball methodology.
 - **Multiple Regression Prediction Project** (Analytics III) – Built a predictive model to forecast business performance metrics.
 - **Forecasted Attrition Dashboard at Genesys** – Created a predictive dashboard to analyze employee retention trends.
-- **Optimization and Modeling**- Optimize NFL Draft pickings.
-
+- **Optimization and Modeling** – Optimized NFL Draft pick strategies.
 
 <a name="profExp"></a>
 <hr>
 
 ## Jobs and Internships
 - **People Analytics Intern at Genesys** (Summer 2023) – Conducted survey analytics and forecasted attrition models.
-
 
 <a name="skills"></a>
 <hr>
@@ -58,9 +56,8 @@ A selection of academic and professional projects:
     </td>
     <td>
      <ul>
-        <li>PCAP - Python Certified Associate Programmer</a></li>
-        <li>Microsoft Office Specialist: Associate (Office 2019) </li>
-    
+        <li>PCAP - Python Certified Associate Programmer</li>
+        <li>Microsoft Office Specialist: Associate (Office 2019)</li>
       </ul>
     </td>
   </tr>

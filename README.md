@@ -45,16 +45,15 @@ A selection of academic and professional projects:
   <tr>
     <td>
      <ul>
-        <li>SQL (PostgreSQL, Microsoft SQL Server, MySQL)</li>
+        <li>SQL (Microsoft SQL Server, MySQL)</li>
         <li>Python (PCAP Certified, Pandas, NumPy, Scikit-Learn)</li>
         <li>R (R Studio, Tidyverse, ggplot2)</li>
         <li>Databricks</li>
         <li>Excel (PivotTables, Macros, VBA)</li>
         <li>Tableau</li>
         <li>Power BI</li>
-        <li>GitHub</li>
         <li>Jupyter Notebooks</li>
-        <li>Data Warehousing (Kimball Star Schema)</li>
+        <li>Data Warehousing</li>
       </ul>
     </td>
     <td>

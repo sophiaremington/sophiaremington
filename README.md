@@ -59,9 +59,9 @@ A selection of academic and professional projects:
     </td>
     <td>
      <ul>
-        <li><a href="https://www.credly.com/badges/e654fce3-19be-40b3-9347-228eea2ce3a1/public_url">PCAP - Python Certified Associate Programmer</a></li>
-        <li>SQL & Data Analytics Certifications (Coursework & Internships)</li>
-        <li>Tableau Specialist Certification (In Progress)</li>
+        <li>PCAP - Python Certified Associate Programmer</a></li>
+        <li>Microsoft Office Specialist: Associate (Office 2019) </li>
+    
       </ul>
     </td>
   </tr>

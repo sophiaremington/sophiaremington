@@ -12,15 +12,17 @@ Hi, I'm Sophia Remington, a Business Information & Analytics and Mathematics stu
 [**LinkedIn**](https://www.linkedin.com/in/sophiaremington) | [**GitHub**](#)
 
 ---
-## Quick Navigation
-<div style="display: flex; gap: 15px; justify-content: center; padding: 10px;">
-  <a href="#education" style="background-color: #005f66; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; font-weight: bold;">Education</a>
-  <a href="#projects" style="background-color: #4F6228; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; font-weight: bold;">Projects</a>
-  <a href="#experience" style="background-color: #756f31; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; font-weight: bold;">Professional Experience</a>
-  <a href="#skills" style="background-color: #A66A2C; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; font-weight: bold;">Skills</a>
-</div>
-
-
+<p align="center">
+  <a href="#education">
+    <img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="40"/>
+  </a>
+  <a href="#experience">
+    <img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="40"/>
+  </a>
+  <a href="#skills">
+    <img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="40"/>
+  </a>
+</p>
 ---
 
 <a name="education"></a>

@@ -9,8 +9,7 @@ Hi, I'm Sophia Remington, a Business Information & Analytics and Mathematics stu
 - Data Science & Modeling Projects – Developed predictive models, optimization frameworks, and end-to-end data warehouses.
 - Student-Athlete – Competitive swimmer with strong time management, work ethic, and problem-solving skills.
 
-[**LinkedIn**](https://www.linkedin.com/in/sophiaremington) | [**GitHub**](#)
-
+[**LinkedIn**](https://www.linkedin.com/in/sophiaremington) 
 ---
 <p align="center">
   <a href="#education">
@@ -23,9 +22,8 @@ Hi, I'm Sophia Remington, a Business Information & Analytics and Mathematics stu
     <img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="40"/>
   </a>
 </p>
----
 
-<a name="education"></a>
+
 ## Education
 ### University of Denver, Daniels College of Business
 - B.S. in Business Information & Analytics and Mathematics (June 2025)

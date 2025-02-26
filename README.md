@@ -26,7 +26,7 @@ Hi, I'm Sophia Remington, a Business Information & Analytics and Mathematics stu
 <a name="education"></a>
 ## Education
 ### University of Denver, Daniels College of Business
-- B.S.B.A. in Business Information & Analytics and Mathematics (June 2025)
+- B.S. in Business Information & Analytics and Mathematics (June 2025)
 - Relevant Courses: Data Warehousing, Machine Learning, Optimization, Text Mining, Statistics
 
 ### University of Texas at Austin, McCombs School of Business
@@ -52,7 +52,7 @@ A selection of academic and professional projects demonstrating problem-solving 
 - **Tools:** Python (Pandas, NumPy), Tableau, Power BI
 
 ### Optimization & NFL Draft Modeling
-- **Problem:** Sports teams face challenges in optimizing draft pick strategies.
+- **Problem:** Sports teams fans face challenges in optimizing draft pick strategies.
 - **Solution:** Built a predictive model applying optimization techniques and machine learning to maximize draft value.
 - **Tools:** Python (Scikit-Learn, Matplotlib), Excel Solver
 
@@ -62,13 +62,14 @@ A selection of academic and professional projects demonstrating problem-solving 
 
 <a name="experience"></a>
 ## Work Experience
-### People Analytics Intern | Genesys (Summer 2023)
+### People Analytics Intern | Genesys (Summer 2024)
 - Built a forecasted attrition dashboard using SQL and Python.
 - Conducted in-depth survey analysis, extracting insights for finance and HR.
 - Enhanced data-driven decision-making through predictive modeling.
 
 ### Teaching & Mentorship
 - Swim Instructor & Community Tutor – Provided instruction and mentorship to help underprivileged students develop skills and confidence.
+
 
 [Back to Top](#top)
 

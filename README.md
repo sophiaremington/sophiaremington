@@ -2,7 +2,7 @@
 <hr>
 
 ## Welcome to My Portfolio
-Hi, I'm Sophia Remington, a Business Information & Analytics and Mathematics student at the University of Denver, pursuing my Master’s in Business Analytics at UT Austin. I’m passionate about data science, analytics, and problem-solving, with experience in forecasting, data visualization, and machine learning.
+Hi, I'm Sophia Remington, a recent grad from the University of Denver earning B.S. in Business Information & Analytics and Mathematics. I am currently pursuing my Master’s in Business Analytics at UT Austin. I’m passionate about data science, analytics, and problem-solving, with experience in forecasting, data visualization, and machine learning.
 
 ### About Me
 - People Analytics Intern at Genesys – Built a forecasted attrition dashboard to analyze employee retention trends.
